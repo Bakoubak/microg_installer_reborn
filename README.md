@@ -9,6 +9,7 @@ Currently, GmsCore 0.3.6 (including Companion, previously known as FakeStore) an
 There is only one copy of this repo which is hosted on [my personal GitHub](https://github.com/Bakoubak/microg_installer_reborn)
 
 ## Installation
+**If you were previously running microG_installer_Revived, you need to UNINSTALL it and install this module, because you could experience conflicts.**
 **Again, if you have Google services currently installed, DO NOT INSTALL THIS MODULE.**
 - Choose an solution for [Signature spoofing](https://github.com/microg/android_packages_apps_GmsCore/wiki/Signature-Spoofing) (Note: If your ROM does not support signature spoofing, I recommend [whew-inc's FakeGApps fork](https://github.com/whew-inc/FakeGApps/releases)) (Note 2: [LineageOS 17.1+ should now integrate signature spoofing for MicroG](https://review.lineageos.org/q/topic:microg-eval))
 - Install microG 0.3.6 and Companion (or real Play Store) as normal user app
