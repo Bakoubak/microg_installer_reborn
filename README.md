@@ -39,7 +39,7 @@ Note: previously, this module told you to put it into `/data/adb/Phonesky.apk`. 
 ### Linux, BSD, macOS, Android
 Requires wget.
 
-    wget -O META-INF/com/google/android/update-binary https://raw.githubusercontent.com/topjohnwu/Magisk/master/scripts/module_installer.sh && zip microG_Installer_Revived.zip -9r * -x update.json
+    wget -O META-INF/com/google/android/update-binary https://raw.githubusercontent.com/topjohnwu/Magisk/master/scripts/module_installer.sh && zip microG_Installer_Reborn.zip -9r * -x update.json
 
 
 ### Other
